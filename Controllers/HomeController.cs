@@ -15,17 +15,27 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        ViewBag.DicEquipos = Equipo.DicEquipos;
+        return View(Index);
+        
     }
 
-    public IActionResult Privacy()
+    public IActionResult SelectIndumentaria()
     {
-        return View();
+        ViewBag.Equipos = Equipo.ListEquipos;
+        ViewBag.Camiseta = Equipo.ListCamiseta;
+        ViewBag.Medias = Equipo.ListMedias;
+        ViewBag.Pantalones = Equipo.ListPantalon;
+        return View(SelectIndumentaria);
     }
-
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
+    public IActionResult GuardarIndumentaria(int Equipo,int Media,int Pantalon,int Remera){
+if (Equipo == 0 || Media == 0 || Pantalon == 0 || Remera == 0) s
     {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        ViewBag.Error = "Por favor seleccione una opción para cada campo."; 
+        return View("SelectIndumentaria");
+    }else
+    {
+      return View("SelectIndumentaria");
     }
-}
+    }
+    }

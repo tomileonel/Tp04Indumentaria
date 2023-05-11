@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TpIndumentaria.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TpIndumentaria.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\c1.png",
+      "PackagePath": "staticwebassets\\img\\c1.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\c10.png",
+      "PackagePath": "staticwebassets\\img\\c10.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\c2.png",
+      "PackagePath": "staticwebassets\\img\\c2.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\c3.png",
+      "PackagePath": "staticwebassets\\img\\c3.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\c4.png",
+      "PackagePath": "staticwebassets\\img\\c4.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\c5.png",
+      "PackagePath": "staticwebassets\\img\\c5.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\c6.png",
+      "PackagePath": "staticwebassets\\img\\c6.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\c7.png",
+      "PackagePath": "staticwebassets\\img\\c7.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\c8.png",
+      "PackagePath": "staticwebassets\\img\\c8.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\c9.png",
+      "PackagePath": "staticwebassets\\img\\c9.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\m1.png",
+      "PackagePath": "staticwebassets\\img\\m1.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\m10.png",
+      "PackagePath": "staticwebassets\\img\\m10.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\m2.png",
+      "PackagePath": "staticwebassets\\img\\m2.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\m3.png",
+      "PackagePath": "staticwebassets\\img\\m3.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\m4.png",
+      "PackagePath": "staticwebassets\\img\\m4.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\m5.png",
+      "PackagePath": "staticwebassets\\img\\m5.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\m6.png",
+      "PackagePath": "staticwebassets\\img\\m6.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\m7.png",
+      "PackagePath": "staticwebassets\\img\\m7.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\m8.png",
+      "PackagePath": "staticwebassets\\img\\m8.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\m9.png",
+      "PackagePath": "staticwebassets\\img\\m9.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\p1.png",
+      "PackagePath": "staticwebassets\\img\\p1.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\p10.png",
+      "PackagePath": "staticwebassets\\img\\p10.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\p2.png",
+      "PackagePath": "staticwebassets\\img\\p2.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\p3.png",
+      "PackagePath": "staticwebassets\\img\\p3.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\p4.png",
+      "PackagePath": "staticwebassets\\img\\p4.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\p5.png",
+      "PackagePath": "staticwebassets\\img\\p5.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\p6.png",
+      "PackagePath": "staticwebassets\\img\\p6.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\p7.png",
+      "PackagePath": "staticwebassets\\img\\p7.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\p8.png",
+      "PackagePath": "staticwebassets\\img\\p8.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\img\\p9.png",
+      "PackagePath": "staticwebassets\\img\\p9.png"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\PROG\\Tp04Indumentaria\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TpIndumentaria.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TpIndumentaria.props",
+      "PackagePath": "build\\TpIndumentaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TpIndumentaria.props",
+      "PackagePath": "buildMultiTargeting\\TpIndumentaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TpIndumentaria.props",
+      "PackagePath": "buildTransitive\\TpIndumentaria.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
