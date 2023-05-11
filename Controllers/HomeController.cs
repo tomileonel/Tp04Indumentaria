@@ -16,7 +16,7 @@ public class HomeController : Controller
     public IActionResult Index()
     {
         ViewBag.DicEquipos = Equipo.DicEquipos;
-        return View(Index);
+        return View("Index");
         
     }
 
@@ -26,16 +26,18 @@ public class HomeController : Controller
         ViewBag.Camiseta = Equipo.ListCamiseta;
         ViewBag.Medias = Equipo.ListMedias;
         ViewBag.Pantalones = Equipo.ListPantalon;
-        return View(SelectIndumentaria);
+        return View("SelectIndumentaria");
     }
     public IActionResult GuardarIndumentaria(int Equipo,int Media,int Pantalon,int Remera){
-if (Equipo == 0 || Media == 0 || Pantalon == 0 || Remera == 0) s
+if (Equipo == 0 || Media == 0 || Pantalon == 0 || Remera == 0) 
     {
         ViewBag.Error = "Por favor seleccione una opción para cada campo."; 
         return View("SelectIndumentaria");
-    }else
-    {
+    }else{
+         Indumentaria indumentaria = new Indumentaria(ViewBag.ListCamiseta(Remera),ViewBag.ListPantalon(Pantalon),ViewBag.ListMedias(Media));
+         Equipo.ingresarIndumentaria(ViewBag.ListEquipos(Equipo),indumentaria);
       return View("SelectIndumentaria");
     }
     }
+
     }

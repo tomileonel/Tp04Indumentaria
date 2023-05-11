@@ -1,3 +1,4 @@
+namespace TpIndumentaria.Models;
 public static class Equipo
 {
     // Definicion de Propiedades
@@ -24,7 +25,7 @@ public static class Equipo
     "Chelsea",
     "Atlético de Madrid"};
 
-    public static Dictionary<String,Indumentaria> DicEquipos = new Dictionary<string, Indumentaria>();
+    public static Dictionary<string,Indumentaria> DicEquipos {get; private set;}= new Dictionary<string, Indumentaria>();
 
 // Constructor
     public static bool ingresarIndumentaria(string EquipoSeleccionado, Indumentaria Item){

@@ -1,0 +1,26 @@
+﻿<h2>Formulario para crear indumentaria</h2>
+    <form action='@Url.Action("GuardarIndimentaria")' >
+
+@foreach (var item in ViewBag.Equipos)
+{
+    <img src=@item/>
+}
+<input type="number" id="Equipo" name="Equipo" max="10" min="1"><br>
+@foreach (var item in ViewBag.Pantalones)
+{
+    <img src=@item  />
+}
+<input type="number" id="Pantalon" name="Pantalon" max="10" min="1"><br>
+@foreach (var item in ViewBag.Media)
+{
+   <img src=@item  />
+}
+<input type="number" id="Media" name="Media" max="10" min="1"><br>
+@foreach (var item in ViewBag.Camisetas)
+{
+   <img src= @item  />
+}
+        <input type="number" id="Remera" name="Remera" max="10" min="1"><br>
+        </div>
+        <input type="submit" value="Crear">
+        </form>
