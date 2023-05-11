@@ -1,5 +1,5 @@
 namespace TpIndumentaria.Models;
-public static class Equipo
+public static class Equipos
 {
     // Definicion de Propiedades
  

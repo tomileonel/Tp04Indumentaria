@@ -1,5 +1,6 @@
 ﻿<h2>Formulario para crear indumentaria</h2>
     <form action='@Url.Action("GuardarIndimentaria")' >
+        <p>@ViewBag.Error</p>
 
 @foreach (var item in ViewBag.Equipos)
 {

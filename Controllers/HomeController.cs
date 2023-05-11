@@ -15,17 +15,17 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        ViewBag.DicEquipos = Equipo.DicEquipos;
+        ViewBag.DicEquipos = Equipos.DicEquipos;
         return View("Index");
         
     }
 
     public IActionResult SelectIndumentaria()
     {
-        ViewBag.Equipos = Equipo.ListEquipos;
-        ViewBag.Camiseta = Equipo.ListCamiseta;
-        ViewBag.Medias = Equipo.ListMedias;
-        ViewBag.Pantalones = Equipo.ListPantalon;
+        ViewBag.Equipos = Equipos.ListEquipos;
+        ViewBag.Camiseta = Equipos.ListCamiseta;
+        ViewBag.Medias = Equipos.ListMedias;
+        ViewBag.Pantalones = Equipos.ListPantalon;
         return View("SelectIndumentaria");
     }
     public IActionResult GuardarIndumentaria(int Equipo,int Media,int Pantalon,int Remera){
@@ -35,8 +35,10 @@ if (Equipo == 0 || Media == 0 || Pantalon == 0 || Remera == 0)
         return View("SelectIndumentaria");
     }else{
          Indumentaria indumentaria = new Indumentaria(ViewBag.ListCamiseta(Remera),ViewBag.ListPantalon(Pantalon),ViewBag.ListMedias(Media));
-         Equipo.ingresarIndumentaria(ViewBag.ListEquipos(Equipo),indumentaria);
-      return View("SelectIndumentaria");
+         bool Pudo = Equipos.ingresarIndumentaria(Equipos.ListEquipos[Equipo],indumentaria);
+         ViewBag.DicEquipos = Equipos.DicEquipos;
+         if(Pudo){ViewBag.Error = "Se cargo existosamente.";}else{ViewBag.Error = "No se pudo cargar.";}
+      return View("Index");
     }
     }
 
