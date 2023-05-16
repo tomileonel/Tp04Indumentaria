@@ -4,15 +4,15 @@ public static class Equipos
     // Definicion de Propiedades
  
 
-    public static List<string> ListMedias{get;set;} = new List<string> { "img/c1.png", "img/c2.png","img/c3.png", "img/c4.png", "img/c5.png",
-        "img/c6.png", "img/c7.png", "img/c8.png", "img/c9.png", "img/c10.png" };
-    public static List<string> ListPantalon{get;set;} = new List<string> { "img/p1.png", "img/p2.png", "img/p3.png", "img/p4.png", "img/p5.png",
-        "img/p6.png", "img/p7.png", "img/p8.png", "img/p9.png", "img/p10.png"};
+    public static List<string> ListMedias{get;set;} = new List<string> { "m1.png", "m2.png","m3.png", "m4.png", "m5.png",
+        "m6.png", "m7.png", "m8.png", "m9.png", "m10.png" };
+    public static List<string> ListPantalon{get;set;} = new List<string> { "p1.png", "p2.png", "p3.png", "p4.png", "p5.png",
+        "p6.png", "p7.png", "p8.png", "p9.png", "p10.png"};
 
     
     public static List<string> ListCamiseta{get;set;} = new List<string> {
-        "img/m1.png", "img/p2.png", "img/p3.png", "img/p4.png", "img/p5.png",
-        "img/p6.png", "img/p7.png", "img/p8.png", "img/p9.png", "img/p10.png"};
+        "c1.png", "c2.png","c3.png", "c4.png", "c5.png",
+        "c6.png", "c7.png", "c8.png", "c9.png", "c10.png"};
     public static List<string> ListEquipos{get;set;} = new List<string> {
     "Real Madrid",
     "Barcelona",

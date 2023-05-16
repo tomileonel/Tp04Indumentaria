@@ -1,27 +1,35 @@
 ﻿<h2>Formulario para crear indumentaria</h2>
-    <form action='@Url.Action("GuardarIndimentaria")' >
-        <p>@ViewBag.Error</p>
-
+    <form action='@Url.Action("GuardarIndumentaria")' >
+        <label for="equipo">Equipo:</label>
+        <select name="equipo" id="equpo">
 @foreach (var item in ViewBag.Equipos)
 {
-    <img src=@item/>
+     <option value=item>@item</option>
 }
-<input type="number" id="Equipo" name="Equipo" max="10" min="1"><br>
+</select>
+<div class="pantalones">
 @foreach (var item in ViewBag.Pantalones)
 {
-    <img src=@item  />
+    <img src="/img/@item" >
 }
-<input type="number" id="Pantalon" name="Pantalon" max="10" min="1"><br>
-@foreach (var item in ViewBag.Media)
+<input type="number" id="Pantalones" name="Pantalones" max="10" min="1" required><br>
+</div>
+<div class="pantalones">
+@foreach (var item in ViewBag.Medias)
 {
-   <img src=@item  />
+   <img src="/img/@item"  />
 }
-<input type="number" id="Media" name="Media" max="10" min="1"><br>
-@foreach (var item in ViewBag.Camisetas)
+<input type="number" id="Medias" name="Medias" max="10" min="1" required><br>
+</div>
+<div class="pantalones">
+@foreach (var item in ViewBag.Camiseta)
 {
-   <img src= @item  />
+   <img src= "/img/@item"  />
 }
-        <input type="number" id="Remera" name="Remera" max="10" min="1"><br>
-        </div>
-        <input type="submit" value="Crear">
+
+        <input type="number" id="Camisetas" name="Camisetas" max="10" min="1" required><br>
+</div>
+        <input type="submit" value="Enviar">
         </form>
+
+

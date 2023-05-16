@@ -20,3 +20,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+.pantalones img{
+  border: 1px coral;
+  height: 9%;
+  width: 9%;
+
+}

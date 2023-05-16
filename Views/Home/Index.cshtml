@@ -1,13 +1,13 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-@foreach (var item in ViewBag.DicEquipos.Key)
+<a href='@Url.Action("SelectIndumentaria")'>Agregar Indumentaria</a>
+@foreach (var item in ViewBag.DicEquipos.Keys)
 {
  <p>@item</p>
-   <img src="@ViewBag.DicEquipos[item].Camisetas"/>
-    <img src="@ViewBag.DicEquipos[item].Camisetas"/>
-    <img src="@ViewBag.DicEquipos[item].Camisetas"/>
-       <img src="@ViewBag.DicEquipos[item].Camisetas"/>//deje aca tengo que hacer que muestre los equipos, las camisetas, los pantalones y las medias
+    <img src="@ViewBag.DicEquipos[item].Camiseta"/>
+    <img src="@ViewBag.DicEquipos[item].Pantalon"/>
+    <img src="@ViewBag.DicEquipos[item].Medias"/>
        
 }
 
