@@ -28,18 +28,14 @@ public class HomeController : Controller
         ViewBag.Pantalones = Equipos.ListPantalon;
         return View();
     }
-    public IActionResult GuardarIndumentaria(int Equipo,int Media,int Pantalon,int Remera){
-if (Equipo == 0 || Media == 0 || Pantalon == 0 || Remera == 0) 
-    {
-        ViewBag.Error = "Por favor seleccione una opción para cada campo."; 
-        return View("SelectIndumentaria");
-    }else{
-         Indumentaria indumentaria = new Indumentaria(ViewBag.ListCamiseta(Remera),ViewBag.ListPantalon(Pantalon),ViewBag.ListMedias(Media));
-         bool Pudo = Equipos.ingresarIndumentaria(Equipos.ListEquipos[Equipo],indumentaria);
+    public IActionResult GuardarIndumentaria(string Equipo,int Medias,int Pantalon,int Remera){
+
+         Indumentaria indumentaria = new Indumentaria(Equipos.ListCamiseta[Remera-1],Equipos.ListPantalon[Pantalon-1],Equipos.ListMedias[Medias-1]);
+         bool Pudo = Equipos.ingresarIndumentaria(Equipo,indumentaria);
          ViewBag.DicEquipos = Equipos.DicEquipos;
          if(Pudo){ViewBag.Error = "Se cargo existosamente.";}else{ViewBag.Error = "No se pudo cargar.";}
       return View("Index");
     }
     }
 
-    }
+    

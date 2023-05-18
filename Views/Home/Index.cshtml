@@ -2,12 +2,17 @@
     ViewData["Title"] = "Home Page";
 }
 <a href='@Url.Action("SelectIndumentaria")'>Agregar Indumentaria</a>
+
 @foreach (var item in ViewBag.DicEquipos.Keys)
 {
+    
  <p>@item</p>
-    <img src="@ViewBag.DicEquipos[item].Camiseta"/>
-    <img src="@ViewBag.DicEquipos[item].Pantalon"/>
-    <img src="@ViewBag.DicEquipos[item].Medias"/>
-       
+ <div class="final">
+    <img src="/img/@ViewBag.DicEquipos[item].Camiseta"/>
+    <img src="/img/@ViewBag.DicEquipos[item].Pantalon"/>
+    <img src="/img/@ViewBag.DicEquipos[item].Medias"/>
+ </div>
+
+
 }
 

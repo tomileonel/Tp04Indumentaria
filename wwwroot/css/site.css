@@ -1,3 +1,4 @@
+
 html {
   font-size: 14px;
 }
@@ -20,9 +21,21 @@ html {
 body {
   margin-bottom: 60px;
 }
-.pantalones img{
+.ropa img{
   border: 1px coral;
   height: 9%;
   width: 9%;
 
+}
+
+.final img{
+  height: 300px;
+  width: 300px;
+  justify-content: center6;
+
+}
+
+.final {
+  height: 20%;
+  width: 100%;
 }
